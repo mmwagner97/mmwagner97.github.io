@@ -1,0 +1,14 @@
+.myface {
+    background-color: black;
+    color: white;
+    border-color: white;
+    border-style: solid;
+    padding: 13px;
+    margin: 15px;
+}
+
+#mywebsite {
+    font-size: 30px;
+    color: cyan;
+    font-weight: 800;
+}
